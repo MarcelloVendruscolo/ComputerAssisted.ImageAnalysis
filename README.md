@@ -6,4 +6,4 @@ The practical segment of the course was composed of five assignments, as follow:
 - Assignment 2 (CAIA1_CE2.pdf): Local Operators and Fourier Analysis
 - Assignment 3 (CAIA1_CE3.pdf): Segmentation and Analysis of Circular Objects
 - Assignment 4 (CAIA1_CE4.pdf): Classification
-- Assignment 5: Image (3 digits) classification
+- Assignment 5: Image (3 digits) classification (Uploaded as a separate repository)
